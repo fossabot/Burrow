@@ -5,9 +5,10 @@ require (
 	github.com/Shopify/sarama v1.27.0
 	github.com/frankban/quicktest v1.10.1 // indirect
 	github.com/fsnotify/fsnotify v1.4.9 // indirect
-	github.com/google/go-cmp v0.5.1 // indirect
+	github.com/google/go-cmp v0.5.2
 	github.com/google/uuid v1.1.1 // indirect
 	github.com/gopherjs/gopherjs v0.0.0-20200217142428-fce0ec30dd00 // indirect
+	github.com/joeshaw/envdecode v0.0.0-20200121155833-099f1fc765bd
 	github.com/julienschmidt/httprouter v1.3.0
 	github.com/karrick/goswarm v1.10.0
 	github.com/klauspost/compress v1.10.11 // indirect
