@@ -3,6 +3,7 @@
 [![go report card](https://goreportcard.com/badge/github.com/linkedin/Burrow)](https://goreportcard.com/report/github.com/linkedin/Burrow)
 [![Coverage Status](https://coveralls.io/repos/github/linkedin/Burrow/badge.svg?branch=master)](https://coveralls.io/github/linkedin/Burrow?branch=master)
 [![GoDoc](https://godoc.org/github.com/linkedin/Burrow?status.svg)](https://godoc.org/github.com/linkedin/Burrow)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FCGA1123%2FBurrow.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FCGA1123%2FBurrow?ref=badge_shield)
 
 # Burrow - Kafka Consumer Lag Checking
 
@@ -67,3 +68,6 @@ You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2
 
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR
 CONDITIONS OF ANY KIND, either express or implied.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FCGA1123%2FBurrow.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FCGA1123%2FBurrow?ref=badge_large)
